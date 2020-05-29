@@ -3,11 +3,11 @@ The dataset consists of the Indian Premier League is a professional Twenty20 cri
 
 The entire analysis (plots and descriptive statistics) in this code is for all years combinely but not to a specific year
 
-And the analysis includes
+- And the analysis includes
 
 Dataset Description
 
-Exploratory Data Analysis through visuals
+(1) Exploratory Data Analysis through visuals
  
 - Univariate Analysis
 
@@ -15,4 +15,4 @@ Exploratory Data Analysis through visuals
 
 - Multivariate Analysis
 
-Observations
+(2) Observations
